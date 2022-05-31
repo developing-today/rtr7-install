@@ -16,7 +16,7 @@ Path Setup [user]:
 ---
 
 Package 'libusb-1.0', required by 'virtual:world'
-Fedora Silverblue: `rpm-ostree install libusb libusbx-devel`
+Fedora Silverblue: `rpm-ostree install libusbx-devel`
 
 ---
 
